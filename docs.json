@@ -78,7 +78,9 @@
             "group": "Octopus",
             "pages": [
               "design"
-            ]
+            ],
+            "hidden": true,
+            "expanded": true
           }
         ]
       },
